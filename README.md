@@ -3,4 +3,4 @@ Exemplo de consumo de mensagens de um tópico do Azure Service Bus com dados de 
 
 Aplicação para consumo das mensagens:
 
-**https://github.com/renatogroffe/ASPNETCore7-REST_API-AzureServiceBusQueue-AppInsights_ContagemAcessos**
+**https://github.com/renatogroffe/ASPNETCore7-REST_API-AzureServiceBusTopic-AppInsights_ContagemAcessos**
